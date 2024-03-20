@@ -2,6 +2,12 @@
 <cmi:CommandInterface xmlns:cmi="http://g5.1c.ru/v8/dt/cmi">
   <commandsVisibility>
     <visibilityFragments>
+      <command>Catalog.Контрагенты.StandardCommand.OpenList</command>
+      <visible>
+        <common>true</common>
+      </visible>
+    </visibilityFragments>
+    <visibilityFragments>
       <command>Catalog.ДоговорыКонтрагентов.StandardCommand.OpenList</command>
       <visible>
         <common>true</common>
@@ -44,13 +50,13 @@
       </visible>
     </visibilityFragments>
     <visibilityFragments>
-      <command>Document.ВКМ_ОбслуживаниеКлиента.StandardCommand.Create</command>
+      <command>Document.РеализацияТоваровУслуг.StandardCommand.Create</command>
       <visible>
         <common>true</common>
       </visible>
     </visibilityFragments>
     <visibilityFragments>
-      <command>Document.РеализацияТоваровУслуг.StandardCommand.Create</command>
+      <command>Document.ВКМ_ОбслуживаниеКлиента.StandardCommand.Create</command>
       <visible>
         <common>true</common>
       </visible>
@@ -59,6 +65,7 @@
   <commandsPlacement>
     <placementFragments>
       <group>CommandGroup.ВКМ_Справочники</group>
+      <commands>Catalog.Контрагенты.StandardCommand.OpenList</commands>
       <commands>Catalog.ДоговорыКонтрагентов.StandardCommand.OpenList</commands>
       <commands>Catalog.ВКМ_Подразделения.StandardCommand.OpenList</commands>
       <commands>Catalog.ВКМ_ФизическиеЛица.StandardCommand.OpenList</commands>
@@ -77,6 +84,7 @@
   <commandsOrder>
     <orderFragments>
       <group>CommandGroup.ВКМ_Справочники</group>
+      <commands>Catalog.Контрагенты.StandardCommand.OpenList</commands>
       <commands>Catalog.ДоговорыКонтрагентов.StandardCommand.OpenList</commands>
       <commands>Catalog.ВКМ_Подразделения.StandardCommand.OpenList</commands>
       <commands>Catalog.ВКМ_ФизическиеЛица.StandardCommand.OpenList</commands>
@@ -90,6 +98,17 @@
     <orderFragments>
       <group>CommandGroup.ВКМ_Регистры</group>
       <commands>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы.StandardCommand.OpenList</commands>
+    </orderFragments>
+    <orderFragments>
+      <group>ActionsPanelCreate</group>
+      <commands>Catalog.ДоговорыКонтрагентов.StandardCommand.Create</commands>
+      <commands>Catalog.Контрагенты.StandardCommand.Create</commands>
+      <commands>Catalog.Контрагенты.StandardCommand.CreateFolder</commands>
+      <commands>Document.РеализацияТоваровУслуг.StandardCommand.Create</commands>
+      <commands>Document.ВКМ_ОбслуживаниеКлиента.StandardCommand.Create</commands>
+      <commands>Catalog.ВКМ_Подразделения.StandardCommand.Create</commands>
+      <commands>Catalog.ВКМ_УведомленияТелеграмБоту.StandardCommand.Create</commands>
+      <commands>Catalog.ВКМ_ФизическиеЛица.StandardCommand.Create</commands>
     </orderFragments>
   </commandsOrder>
 </cmi:CommandInterface>

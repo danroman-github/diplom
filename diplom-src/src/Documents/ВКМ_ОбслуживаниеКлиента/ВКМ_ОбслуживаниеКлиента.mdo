@@ -64,6 +64,16 @@
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
     <fillChecking>ShowError</fillChecking>
+    <choiceParameterLinks>
+      <name>Отбор.Владелец</name>
+      <field>Document.ВКМ_ОбслуживаниеКлиента.Attribute.Клиент</field>
+    </choiceParameterLinks>
+    <choiceParameters>
+      <name>Отбор.ВидДоговора</name>
+      <value xsi:type="core:ReferenceValue">
+        <value>Enum.ВидыДоговоровКонтрагентов.EnumValue.ВКМ_АбонентскоеОбслуживание</value>
+      </value>
+    </choiceParameters>
     <fillValue xsi:type="core:UndefinedValue"/>
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
@@ -96,14 +106,6 @@
         <dateFractions>Date</dateFractions>
       </dateQualifiers>
     </type>
-    <format>
-      <key>ru</key>
-      <value>ДЛФ=DD</value>
-    </format>
-    <editFormat>
-      <key>ru</key>
-      <value>ДЛФ=DD</value>
-    </editFormat>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
     <fillValue xsi:type="core:UndefinedValue"/>
@@ -122,14 +124,6 @@
         <dateFractions>Time</dateFractions>
       </dateQualifiers>
     </type>
-    <format>
-      <key>ru</key>
-      <value>ДЛФ=T</value>
-    </format>
-    <editFormat>
-      <key>ru</key>
-      <value>ДЛФ=T</value>
-    </editFormat>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
     <fillValue xsi:type="core:UndefinedValue"/>
@@ -148,14 +142,6 @@
         <dateFractions>Time</dateFractions>
       </dateQualifiers>
     </type>
-    <format>
-      <key>ru</key>
-      <value>ДЛФ=T</value>
-    </format>
-    <editFormat>
-      <key>ru</key>
-      <value>ДЛФ=T</value>
-    </editFormat>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
     <fillValue xsi:type="core:UndefinedValue"/>
