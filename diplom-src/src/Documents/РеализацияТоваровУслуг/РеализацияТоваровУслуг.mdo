@@ -425,4 +425,11 @@
       <maxValue xsi:type="core:UndefinedValue"/>
     </standardAttributes>
   </tabularSections>
+  <templates uuid="4cc4b0d8-06ad-4c07-b62b-e5cd63d2ab22">
+    <name>ПФ_MXL_АктОбОказанныхУслугах</name>
+    <synonym>
+      <key>ru</key>
+      <value>Акт об оказанных услугах</value>
+    </synonym>
+  </templates>
 </mdclass:Document>

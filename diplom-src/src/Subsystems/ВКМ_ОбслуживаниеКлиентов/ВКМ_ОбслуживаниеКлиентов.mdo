@@ -23,4 +23,6 @@
   <content>Constant.ВКМ_ИдентификаторГруппыДляОповещения</content>
   <content>Catalog.ВКМ_УведомленияТелеграмБоту</content>
   <content>Catalog.Контрагенты</content>
+  <content>DataProcessor.ВКМ_МассовоеСозданиеАктов</content>
+  <content>b18b8dc5-56cb-4cda-b091-d666e9560480</content>
 </mdclass:Subsystem>
