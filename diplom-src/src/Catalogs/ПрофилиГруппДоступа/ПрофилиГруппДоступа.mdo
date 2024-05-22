@@ -132,6 +132,34 @@
         <value></value>
       </code>
     </items>
+    <items id="b492aa12-1bb9-46b4-a9ea-d293f5013078">
+      <name>Бухгалтер</name>
+      <description>Бухгалтер</description>
+      <code xsi:type="core:StringValue">
+        <value></value>
+      </code>
+    </items>
+    <items id="8567d34f-2fc8-45ed-a6b4-43a50e4d848c">
+      <name>КадровикРасчетчик</name>
+      <description>Кадровик-расчетчик</description>
+      <code xsi:type="core:StringValue">
+        <value></value>
+      </code>
+    </items>
+    <items id="58ec2e5a-6c2a-45bd-8e12-37501a2efaba">
+      <name>Менеджер</name>
+      <description>Менеджер</description>
+      <code xsi:type="core:StringValue">
+        <value></value>
+      </code>
+    </items>
+    <items id="b3852821-86ce-45d0-88f6-d843bd853666">
+      <name>Специалист</name>
+      <description>Специалист</description>
+      <code xsi:type="core:StringValue">
+        <value></value>
+      </code>
+    </items>
   </predefined>
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>

@@ -113,19 +113,4 @@
   <defaultPresentation>AsDescription</defaultPresentation>
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
-  <attributes uuid="ecb34af5-bd47-42f4-b07d-bf9458a02790">
-    <name>Подразделение</name>
-    <synonym>
-      <key>ru</key>
-      <value>Подразделение</value>
-    </synonym>
-    <type>
-      <types>CatalogRef.ВКМ_Подразделения</types>
-    </type>
-    <minValue xsi:type="core:UndefinedValue"/>
-    <maxValue xsi:type="core:UndefinedValue"/>
-    <fillValue xsi:type="core:UndefinedValue"/>
-    <fullTextSearch>Use</fullTextSearch>
-    <dataHistory>Use</dataHistory>
-  </attributes>
 </mdclass:Catalog>

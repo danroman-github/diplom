@@ -108,6 +108,22 @@
   <checkUnique>true</checkUnique>
   <autonumbering>true</autonumbering>
   <defaultPresentation>AsDescription</defaultPresentation>
+  <predefined>
+    <items id="5e3680d3-6f82-44a7-95f5-892d21cee2f6">
+      <name>АдминистративныйПерсонал</name>
+      <description>Административный персонал</description>
+      <code xsi:type="core:StringValue">
+        <value>000000001</value>
+      </code>
+    </items>
+    <items id="91441418-b156-4557-83c6-d848c3b4eba0">
+      <name>Специалисты</name>
+      <description>Специалисты</description>
+      <code xsi:type="core:StringValue">
+        <value>000000002</value>
+      </code>
+    </items>
+  </predefined>
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
 </mdclass:Catalog>
