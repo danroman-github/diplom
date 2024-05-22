@@ -571,6 +571,7 @@
       <dataPath xsi:type="form:DataPath">
         <segments>Объект.Комментарий</segments>
       </dataPath>
+      <titleLocation>Left</titleLocation>
       <extendedTooltip>
         <name>КомментарийРасширеннаяПодсказка</name>
         <id>36</id>
@@ -602,8 +603,10 @@
       <headerHorizontalAlign>Left</headerHorizontalAlign>
       <showInFooter>true</showInFooter>
       <extInfo xsi:type="form:InputFieldExtInfo">
+        <height>1</height>
         <autoMaxHeight>true</autoMaxHeight>
         <wrap>true</wrap>
+        <choiceButton>true</choiceButton>
         <chooseType>true</chooseType>
         <typeDomainEnabled>true</typeDomainEnabled>
         <textEdit>true</textEdit>

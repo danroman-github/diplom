@@ -203,13 +203,17 @@
   <items xsi:type="form:FormField">
     <name>Подразделение</name>
     <id>7</id>
+    <title>
+      <key>ru</key>
+      <value>Подразделение</value>
+    </title>
     <visible>true</visible>
     <enabled>true</enabled>
     <userVisible>
       <common>true</common>
     </userVisible>
     <dataPath xsi:type="form:DataPath">
-      <segments>1/0:dd65c426-4ac0-4201-8178-4fce82cb4f61</segments>
+      <segments>Объект.ОсновныеНачисления.Подразделение.Ref</segments>
     </dataPath>
     <extendedTooltip>
       <name>ПодразделениеРасширеннаяПодсказка</name>
