@@ -66,5 +66,4 @@
   <content>Report.АнализПравДоступа</content>
   <content>CommonForm.ВосстановлениеПаролей</content>
   <content>Report.ПраваРолей</content>
-  <subsystems>ВКМ_ДобавленныеОбъекты</subsystems>
 </mdclass:Subsystem>
