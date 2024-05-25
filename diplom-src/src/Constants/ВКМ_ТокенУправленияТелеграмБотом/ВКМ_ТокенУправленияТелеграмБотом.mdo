@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7a3939da-388d-49ef-89e7-31797c0f3392">
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d710fabf-8dd5-4b06-aa50-804adbc9b3dc">
   <producedTypes>
-    <managerType typeId="70cad364-e07b-49f0-ba34-72bb0f16ac51" valueTypeId="0fa43b57-4b3e-4440-b9f7-1f8736a472e4"/>
-    <valueManagerType typeId="c108ca86-10ed-49e5-9356-03102410c27c" valueTypeId="22371694-e8e9-4a05-8410-05fd2afee167"/>
-    <valueKeyType typeId="3cd53742-01af-481b-91ee-a35aa018aaeb" valueTypeId="a6919add-6bcd-4040-9d8a-e2c04a9bebee"/>
+    <managerType typeId="ad8965df-f2f0-4859-889a-8ee568d71ee8" valueTypeId="ac846339-8005-4993-9914-27320b2a6b60"/>
+    <valueManagerType typeId="9e9c69af-1b47-4da6-800c-3e3c4424a1e4" valueTypeId="dee18de4-c7db-4a16-b225-d7ae9510465f"/>
+    <valueKeyType typeId="de6cba8f-569b-4746-acc4-36ed35fc1168" valueTypeId="bf15ff4f-0683-4152-b48c-0071e34b05fa"/>
   </producedTypes>
   <name>ВКМ_ТокенУправленияТелеграмБотом</name>
   <synonym>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d9033d89-8aa4-4912-bb3b-39e824763763">
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="15744f2b-640c-4b93-8ec1-75f30eebb0a0">
   <producedTypes>
-    <managerType typeId="5ae12b3c-c1db-40e0-a7c6-3f3edc37713a" valueTypeId="2e0504d7-8e3e-4c01-87c3-36721efe3ea2"/>
-    <valueManagerType typeId="170eda2b-7b6e-45d6-89b3-50e85534da8c" valueTypeId="1868d2db-f604-4a8d-ba48-8d46bf1320a6"/>
-    <valueKeyType typeId="67d84d6c-0598-477c-ae4a-5e9cf0abc5ba" valueTypeId="c40bc4ed-4ace-4f63-a011-e936aa31c6b0"/>
+    <managerType typeId="5404d855-7c9d-473a-83b3-e6e71b14a9a5" valueTypeId="d19a1933-28cf-4472-9cd2-e3f099665f76"/>
+    <valueManagerType typeId="56d51d1b-ce1e-492e-995e-af1f3a7d4090" valueTypeId="f1f79929-38c1-4114-b9d9-e51a2dd6c8d0"/>
+    <valueKeyType typeId="2fe3aadb-e35b-41f0-a633-8b0d899b4b48" valueTypeId="6e3565a0-e3f6-4149-a494-bd4976176f5a"/>
   </producedTypes>
   <name>ВКМ_НоменклатураРаботыСпециалиста</name>
   <synonym>

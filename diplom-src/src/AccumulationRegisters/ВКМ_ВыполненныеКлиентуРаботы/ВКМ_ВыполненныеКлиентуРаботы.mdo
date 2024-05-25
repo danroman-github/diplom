@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:AccumulationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="de1e3e8b-4bfc-4bec-bdeb-8c400e81b1a5">
+<mdclass:AccumulationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="35a2b452-6cb5-4348-85d6-626ad7ca3f3f">
   <producedTypes>
-    <selectionType typeId="3cb33246-f65c-42db-8b82-637c5e5c289c" valueTypeId="9aabca54-7fe7-4e82-9739-420a8a66b7ad"/>
-    <listType typeId="887558fd-a671-447b-9eaf-7b60dd154ed5" valueTypeId="645b6ff3-fc4f-455c-b115-11b096fe923b"/>
-    <managerType typeId="ac655d38-fd85-4705-9538-cd2b149e7f2c" valueTypeId="b5646278-873a-4cae-ab9e-b6d979fa6a02"/>
-    <recordSetType typeId="9c484ffb-5ba9-4e53-baf4-7e343342794d" valueTypeId="67105879-e3c3-44ea-93db-acd9ca555651"/>
-    <recordKeyType typeId="50c6ce28-db75-4d43-84d2-6c2291a5fe2d" valueTypeId="3d18af98-ef38-48b6-8cfd-e97d724ba073"/>
-    <recordType typeId="40f8074d-2d42-4c70-b5d2-33cff6ca0caf" valueTypeId="4901e4a1-6f96-48f9-bb9f-865fb301d1b1"/>
+    <selectionType typeId="81594aa2-2b38-48f9-8521-fc66e0cc2a0f" valueTypeId="8eb96979-3062-4b10-9108-81eef81d27d6"/>
+    <listType typeId="a00a8862-6237-4157-81fc-6424d2703803" valueTypeId="1bb116f6-32a4-48bf-b189-da625a95a80f"/>
+    <managerType typeId="c1b668f9-7740-47aa-b969-6375e386f50e" valueTypeId="229cabdb-648a-418b-a785-f5f2f0983471"/>
+    <recordSetType typeId="695e0726-3698-40fc-a701-3a805010f3da" valueTypeId="ea077542-9a09-4a6a-87a5-ddb7477cd506"/>
+    <recordKeyType typeId="075c87b8-9768-41e1-8efe-2e3b27c7ad61" valueTypeId="d096af16-1790-41bf-9767-80176cdc38e7"/>
+    <recordType typeId="d25674fa-f637-4950-9bf5-0ce6d3c3866d" valueTypeId="738541d7-1d58-49aa-a4a7-f66cac8b38c2"/>
   </producedTypes>
   <name>ВКМ_ВыполненныеКлиентуРаботы</name>
   <synonym>
@@ -16,7 +16,7 @@
   <useStandardCommands>true</useStandardCommands>
   <dataLockControlMode>Managed</dataLockControlMode>
   <enableTotalsSplitting>true</enableTotalsSplitting>
-  <resources uuid="314d1282-ca00-487e-8df1-a5cede7321d0">
+  <resources uuid="132830e0-9058-4b82-a2cf-65d0e021f022">
     <name>КоличествоЧасов</name>
     <synonym>
       <key>ru</key>
@@ -32,7 +32,7 @@
     <maxValue xsi:type="core:UndefinedValue"/>
     <fullTextSearch>Use</fullTextSearch>
   </resources>
-  <resources uuid="00f1984c-8777-4f6d-9dcd-acc39ecc9ed5">
+  <resources uuid="219b066f-d8e0-4806-bc6e-0e122bd32474">
     <name>СуммаКОплате</name>
     <synonym>
       <key>ru</key>
@@ -50,7 +50,7 @@
     <maxValue xsi:type="core:UndefinedValue"/>
     <fullTextSearch>Use</fullTextSearch>
   </resources>
-  <dimensions uuid="59f65eb4-e62c-4a7e-a5fc-11b38b446a19">
+  <dimensions uuid="feaa282c-f076-4305-8b48-d54eaede44fd">
     <name>Клиент</name>
     <synonym>
       <key>ru</key>
@@ -65,7 +65,7 @@
     <fullTextSearch>Use</fullTextSearch>
     <useInTotals>true</useInTotals>
   </dimensions>
-  <dimensions uuid="6dcb511c-acf2-4f2c-9867-9df2c9b6c27f">
+  <dimensions uuid="2970f497-9b42-4519-9e55-ce9a9ee26d9f">
     <name>Договор</name>
     <synonym>
       <key>ru</key>

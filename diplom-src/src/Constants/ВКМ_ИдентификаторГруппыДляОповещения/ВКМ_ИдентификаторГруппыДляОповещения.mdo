@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d392ae06-9d2b-41fc-afe2-cf5ae22eeb92">
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="bb2b1b68-b9ee-433a-8836-c03f71dbad84">
   <producedTypes>
-    <managerType typeId="36bf2cba-922f-4732-b0e5-44c2b236c403" valueTypeId="43c88c82-f4c1-4080-a4ae-34ab8dee0bd8"/>
-    <valueManagerType typeId="abc0f4d2-01f1-44f7-8aee-fa83d51dedb8" valueTypeId="01e2322f-98f2-42bb-b4bf-2eb69c0dbedf"/>
-    <valueKeyType typeId="172ae057-14de-44d2-b7ef-337408ac3685" valueTypeId="759329d1-4f94-410f-b966-3e8945960c39"/>
+    <managerType typeId="586256f7-2ab8-4b8a-b142-7e89dcbe21d6" valueTypeId="9ad25c36-2085-4b50-8757-8a3111060ae6"/>
+    <valueManagerType typeId="7e1ed7fe-4d9a-4f01-a6a9-20c6a116fdf7" valueTypeId="b043b798-d924-49f2-bb58-2f42a4ff176a"/>
+    <valueKeyType typeId="04aa99db-f006-4161-9caa-b01ef2821665" valueTypeId="b247aa14-f871-4341-8d49-183a3026b83e"/>
   </producedTypes>
   <name>ВКМ_ИдентификаторГруппыДляОповещения</name>
   <synonym>

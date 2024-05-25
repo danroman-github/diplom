@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ec32930e-637c-46e4-a1cd-e6f2d50e6911">
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="49b42be9-6033-4396-9510-bd545aa0f592">
   <producedTypes>
-    <objectType typeId="1642709b-8d4c-4571-9d8c-f7e81b932d37" valueTypeId="8950903e-0372-4a9d-8493-6f508e8b05e6"/>
-    <refType typeId="6f03f3a4-ad04-4fa1-bd8d-45f68197de80" valueTypeId="9c245544-e0ec-4231-bbac-ac9f4b59b9ad"/>
-    <selectionType typeId="decfeec1-e274-416c-adb2-29104482e6b0" valueTypeId="a99a1e58-81f2-4e4f-bce7-e094c494f7bb"/>
-    <listType typeId="77a47246-a916-41cf-92b8-1b104e8251cd" valueTypeId="5549641b-5ad9-45b4-8cab-0c7f5c5100d5"/>
-    <managerType typeId="7c9f1b39-e00c-47a7-899d-7ee9d75d821c" valueTypeId="c6bef412-9d7e-4e21-8bc7-e91f57d2c208"/>
+    <objectType typeId="d6225da8-7ac1-4025-b1d5-72a5195f0d3b" valueTypeId="6ecb0eda-2dc5-409b-b17a-b08833436b1e"/>
+    <refType typeId="30f313b3-05ff-4e83-b97b-78299ddcab49" valueTypeId="9113a70e-0958-4082-afc0-0c39f73eefbd"/>
+    <selectionType typeId="9aaeefc0-8a4a-4348-8eb6-7c0114055f38" valueTypeId="e6f2c8d1-7a04-478f-8daa-6c32f70f450e"/>
+    <listType typeId="9a07a7d5-ad17-4ef2-9143-b935c097157f" valueTypeId="1f0d3ad9-6d5c-4a0f-84f3-ac85b307161b"/>
+    <managerType typeId="cbd06c33-1b84-4ab5-b60a-fc06371dea41" valueTypeId="17f157ea-0e7e-41a0-9554-70765d262738"/>
   </producedTypes>
   <name>ВКМ_ОбслуживаниеКлиента</name>
   <synonym>
@@ -37,7 +37,7 @@
   <registerRecords>AccumulationRegister.ВКМ_ВыполненныеСотрудникомРаботы</registerRecords>
   <postInPrivilegedMode>true</postInPrivilegedMode>
   <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
-  <attributes uuid="3f788497-06c2-44b6-96ec-36f1b2639c0d">
+  <attributes uuid="bec33fc6-df3b-4eb7-b485-cdd1c32b2d9f">
     <name>Клиент</name>
     <synonym>
       <key>ru</key>
@@ -53,7 +53,7 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
-  <attributes uuid="acdcc4e3-6143-4ad3-944d-46427d57acbb">
+  <attributes uuid="2e226d48-7a56-463f-99b1-4132557f2408">
     <name>Договор</name>
     <synonym>
       <key>ru</key>
@@ -79,7 +79,7 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
-  <attributes uuid="0d5b5aca-9be2-4bee-ad05-dc735dcb1360">
+  <attributes uuid="a1deb3db-78e0-4727-94bd-9270b7538ad1">
     <name>Специалист</name>
     <synonym>
       <key>ru</key>
@@ -95,7 +95,7 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
-  <attributes uuid="41b17985-e8a1-42dc-ba36-9f603c344705">
+  <attributes uuid="e426cc4e-55e8-4114-9485-36b71e838909">
     <name>ДатаПроведенияРабот</name>
     <synonym>
       <key>ru</key>
@@ -113,7 +113,7 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
-  <attributes uuid="d3304866-08ea-4adf-a086-18b65d9240ac">
+  <attributes uuid="f5cba082-1abc-4874-b201-1c6098534b69">
     <name>ВремяНачалаРаботПлан</name>
     <synonym>
       <key>ru</key>
@@ -131,7 +131,7 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
-  <attributes uuid="b58bb1b5-8fbf-4563-bccd-5f610017821d">
+  <attributes uuid="c3ffd4a8-52ec-441d-95da-f1c9056291e5">
     <name>ВремяОкончанияРаботПлан</name>
     <synonym>
       <key>ru</key>
@@ -149,7 +149,7 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
-  <attributes uuid="ad49dc0f-08c5-4c3a-a851-1278412520d8">
+  <attributes uuid="10258264-5668-4fd0-b12e-0bd9c0e36701">
     <name>ОписаниеПроблемы</name>
     <synonym>
       <key>ru</key>
@@ -167,7 +167,7 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
-  <attributes uuid="55470bf1-2532-44b4-a5b9-64cfdbe51422">
+  <attributes uuid="ae1eaa99-ce37-4863-bf71-3cf805730a1b">
     <name>Комментарий</name>
     <synonym>
       <key>ru</key>
@@ -201,7 +201,7 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
-  <forms uuid="979dbdf4-edb9-4e74-862b-55cc5f326b5a">
+  <forms uuid="996eca6b-2b5d-4e7d-aab9-d927c8486790">
     <name>ФормаДокумента</name>
     <synonym>
       <key>ru</key>
@@ -210,7 +210,7 @@
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
   </forms>
-  <forms uuid="34f41ee2-c705-4f0b-ac2c-832c3f76bfc6">
+  <forms uuid="a3406cbc-e0d7-4370-8071-fdbb287855d6">
     <name>ФормаСписка</name>
     <synonym>
       <key>ru</key>
@@ -219,17 +219,17 @@
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
   </forms>
-  <tabularSections uuid="c2a0bb69-33f2-414a-9f18-9c5c6d0e027b">
+  <tabularSections uuid="0aea1839-3563-4810-bb57-9cdc04b97df2">
     <producedTypes>
-      <objectType typeId="8bbab4bd-fdf2-4409-aadb-0d1c9265d50a" valueTypeId="ac639bce-ec76-4418-8d09-a56afb5a5a7b"/>
-      <rowType typeId="e594cf3e-8664-4b99-950a-542386b63d47" valueTypeId="0d4cdeed-fac5-490e-8952-238578f00b4f"/>
+      <objectType typeId="574bb1f3-ce64-450f-b1e2-061a404a3d18" valueTypeId="658caa78-1122-4121-a4c3-d1bb087df45f"/>
+      <rowType typeId="2d1a8a8a-ec7d-42cb-b182-760bdab0ec83" valueTypeId="3a75e4b9-ea9c-41c4-92ab-1ed273ea6b06"/>
     </producedTypes>
     <name>ВыполненныеРаботы</name>
     <synonym>
       <key>ru</key>
       <value>Выполненные работы</value>
     </synonym>
-    <attributes uuid="64b94435-7f87-4b3f-a327-f7af1afaee9d">
+    <attributes uuid="c8bada3e-e758-4dc6-a91f-cac7cdab3190">
       <name>ОписаниеРабот</name>
       <synonym>
         <key>ru</key>
@@ -246,7 +246,7 @@
       <dataHistory>Use</dataHistory>
       <fullTextSearch>Use</fullTextSearch>
     </attributes>
-    <attributes uuid="da35260b-1f7a-4f5a-b63b-8acc4ee1acb2">
+    <attributes uuid="080b3c8a-e603-4922-8683-97e02bba0001">
       <name>ФактическиПотраченоЧасов</name>
       <synonym>
         <key>ru</key>
@@ -264,7 +264,7 @@
       <dataHistory>Use</dataHistory>
       <fullTextSearch>Use</fullTextSearch>
     </attributes>
-    <attributes uuid="6116b023-2b90-48be-92b7-939aa83e402c">
+    <attributes uuid="3fe682c2-b333-4c92-9f9d-7da64c0406ed">
       <name>ЧасовКОплатеКлиенту</name>
       <synonym>
         <key>ru</key>

@@ -124,7 +124,15 @@
   <descriptionLength>150</descriptionLength>
   <codeType>String</codeType>
   <defaultPresentation>AsDescription</defaultPresentation>
-  <predefined/>
+  <predefined>
+    <items id="6c4b0307-43a4-4141-9c35-3dd7e9586d41">
+      <name>Администратор</name>
+      <description>Администратор</description>
+      <code xsi:type="core:StringValue">
+        <value></value>
+      </code>
+    </items>
+  </predefined>
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
   <defaultObjectForm>Catalog.ПрофилиГруппДоступа.Form.ФормаЭлемента</defaultObjectForm>

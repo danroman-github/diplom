@@ -153,7 +153,7 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
-  <attributes uuid="24e7844d-2cda-4dd0-8cb4-2b8d260e632c">
+  <attributes uuid="5892d2a9-75c1-49c3-875d-e01617b4f0a8">
     <name>ВКМ_ДатаНачалаДействияДоговора</name>
     <synonym>
       <key>ru</key>
@@ -171,7 +171,7 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
-  <attributes uuid="66665aca-adbb-47db-9b9c-998738994fa5">
+  <attributes uuid="ad619e6f-1e73-4e0b-b0b2-6e6e7887f3c3">
     <name>ВКМ_ДатаОкончанияДействияДоговора</name>
     <synonym>
       <key>ru</key>
@@ -189,7 +189,7 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
-  <attributes uuid="bbe8c3bc-7253-49f7-9f4f-03be7fba1abe">
+  <attributes uuid="859fb70a-ff39-449f-b511-8e108e2a42b6">
     <name>ВКМ_СуммаАбонентскойПлаты</name>
     <synonym>
       <key>ru</key>
@@ -209,7 +209,7 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
-  <attributes uuid="7e4d0600-b85b-491e-8deb-f60ffd435702">
+  <attributes uuid="5a397bc8-532c-476c-9cf0-4077a8653103">
     <name>ВКМ_СтоимостьЧасаРаботыСпециалиста</name>
     <synonym>
       <key>ru</key>
@@ -238,7 +238,7 @@
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
   </forms>
-  <forms uuid="d0181fa2-65e4-481c-bf95-e296ff91f564">
+  <forms uuid="ea8ce3ef-8b0b-453a-803a-cd7552a35aca">
     <name>ВКМ_ФормаЭлемента</name>
     <synonym>
       <key>ru</key>
