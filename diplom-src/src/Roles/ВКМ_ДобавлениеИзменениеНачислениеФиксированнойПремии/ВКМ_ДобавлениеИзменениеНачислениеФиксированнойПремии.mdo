@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Role xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="3ccb3f2b-e9bb-446b-b2e1-d4ba32bc8f60">
+  <name>ВКМ_ДобавлениеИзменениеНачислениеФиксированнойПремии</name>
+  <synonym>
+    <key>ru</key>
+    <value>Начисление фиксированной премии. Добавление, изменение</value>
+  </synonym>
+</mdclass:Role>

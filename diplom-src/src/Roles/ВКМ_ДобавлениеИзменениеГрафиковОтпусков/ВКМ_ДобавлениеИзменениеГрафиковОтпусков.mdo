@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Role xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="19ab0380-c0a3-450b-90ad-dd60107df2f4">
+  <name>ВКМ_ДобавлениеИзменениеГрафиковОтпусков</name>
+  <synonym>
+    <key>ru</key>
+    <value>Графиков отпусков. Добавление, изменение</value>
+  </synonym>
+</mdclass:Role>
