@@ -591,6 +591,8 @@
   <roles>Role.ВКМ_ИспользованиеОтчетаРасчетыССотрудниками</roles>
   <roles>Role.ВКМ_ИспользованиеОбработкиЗаполнениеГрафика</roles>
   <roles>Role.ВКМ_ИспользованиеОбработкиМассовоеСозданиеАктов</roles>
+  <roles>Role.ВКМ_Менеджер</roles>
+  <roles>Role.ВКМ_БухгалтерИТФирмы</roles>
   <commonTemplates>CommonTemplate.ДанныеПечатиОбщиеРеквизиты</commonTemplates>
   <commonTemplates>CommonTemplate.ДанныеПечатиРегистрСимволов</commonTemplates>
   <commonTemplates>CommonTemplate.ИнструкцияПоСозданиюФаксимильнойПодписиИПечати</commonTemplates>
