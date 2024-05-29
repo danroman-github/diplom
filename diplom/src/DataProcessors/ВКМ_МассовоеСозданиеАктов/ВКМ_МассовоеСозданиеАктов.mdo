@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7b7004c4-6df5-4f02-bb98-29707f29a8ec">
+  <producedTypes>
+    <objectType typeId="83c15cf4-2a00-4df8-a2af-2e8f4a4eb587" valueTypeId="f9331d14-2d8c-4503-872b-f06c1eb359ae"/>
+    <managerType typeId="b5ba7dba-1606-478b-8ffc-bbe231e959d1" valueTypeId="72f6f1dd-8ed0-4690-bf3e-977eccb4bfab"/>
+  </producedTypes>
+  <name>ВКМ_МассовоеСозданиеАктов</name>
+  <synonym>
+    <key>ru</key>
+    <value>Массовое создание актов</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.ВКМ_МассовоеСозданиеАктов.Form.Форма</defaultForm>
+  <attributes uuid="0fe97fd3-0157-4801-a5cf-077f161e7118">
+    <name>Период</name>
+    <synonym>
+      <key>ru</key>
+      <value>Период</value>
+    </synonym>
+    <type>
+      <types>StandardPeriod</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
+  <tabularSections uuid="165ed3fc-d0c5-4c96-be67-06b2e95587c0">
+    <producedTypes>
+      <objectType typeId="71ec68ca-fe6c-472f-bd4e-c751fc8881b4" valueTypeId="3bdd2128-ab7d-448c-94b4-226d42297706"/>
+      <rowType typeId="f9cb1c71-5db1-4c81-9373-f592ab79fd4e" valueTypeId="e6bdcad3-e6c1-4d11-9aa0-30705d579ae0"/>
+    </producedTypes>
+    <name>СписокРеализаций</name>
+    <synonym>
+      <key>ru</key>
+      <value>Список реализаций</value>
+    </synonym>
+    <standardAttributes>
+      <dataHistory>Use</dataHistory>
+      <name>LineNumber</name>
+      <fillValue xsi:type="core:UndefinedValue"/>
+      <fullTextSearch>Use</fullTextSearch>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+    </standardAttributes>
+  </tabularSections>
+  <forms uuid="fa960e3d-1faa-47d1-8798-e6467fb87e19">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:DataProcessor>
