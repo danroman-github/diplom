@@ -13,6 +13,7 @@
     <value>Физические лица</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.ВКМ_ФизическиеЛица.StandardAttribute.Description</inputByString>
   <inputByString>Catalog.ВКМ_ФизическиеЛица.StandardAttribute.Code</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <standardAttributes>
